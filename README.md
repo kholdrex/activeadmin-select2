@@ -17,7 +17,7 @@ Add `activeadmin`, `jquery-rails` and `select2-rails` to your Gemfile:
 And add `activeadmin-select2` to your Gemfile:
 
 ```ruby
-   gem 'activeadmin-select2', github: 'mfairburn/activeadmin-select2'
+   gem 'activeadmin-select2', github: 'kholdrex/activeadmin-select2'
 ```
 
 Add the activeadmin-select2 calls to the active_admin stylesheets and javascripts with:
@@ -72,5 +72,5 @@ To use a Select2 style list simply change from :select to :select2 or :select2_m
 
 ## Copyright
 
-Copyright (c) 2015 Alexandr Kholodniak, Brightgrove Ltd
+Copyright (c) 2015 Alexandr Kholodniak, Brightgrove Ltd.
 See the file LICENSE.txt for details.
